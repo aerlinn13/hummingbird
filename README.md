@@ -1,4 +1,4 @@
-# Hummingbird Frontend Test Starter App
+# Hummingbird Frontend Test Starter App by Danil Chernyshev
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
@@ -13,7 +13,6 @@ To install the app dependencies do a
 ```
 npm install
 ```
-
 
 Run app in the development mode.
 ```
