@@ -1,4 +1,5 @@
 # Hummingbird Frontend Test Starter App by Danil Chernyshev
+![Screenshot](screenshot.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
